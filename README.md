@@ -4,7 +4,7 @@
 
 
 
-# りん　ロスタヤ  「白澪 · 洛丝塔亚」
+# りん ロスタヤ　　「Rinn · Lostaya」
 
 
 [![RinnTaya's Index](https://cdn.jsdelivr.net/gh/RinnTaya/RinnTaya@master/assets/miourasaki-index-brage.svg)](https://rinn.im)
