@@ -23,7 +23,8 @@
 **i About...**
 
 - I'm learning to draw and compose.
-- [@MioSeiYa](https://mioseiya.com/) core team member
+<!-- - [@MioSeiYa](https://mioseiya.com/) core team member -->
+- 駄目な人、ね
 -   *United Imperial of Mio* Citizen.
 <!-- - [RSSHub](https://github.com/diygod/rsshub) collaborator
 - [@sspanel-uim](https://github.com/sspanel-uim) develop team member
