@@ -19,11 +19,10 @@
 <a href="https://github.com/Miourasaki#gh-dark-mode-only">
   <img src="https://miourasaki-readme-stats.vercel.app/api?username=RinnTaya&show_icons=true&hide_border=true&icon_color=60696f&title_color=e688ac&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=e688ac&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
-
+<!-- - [@MioSeiYa](https://mioseiya.com/) core team member -->
 **i About...**
 
 - I'm learning to draw and compose.
-<!-- - [@MioSeiYa](https://mioseiya.com/) core team member -->
 - 駄目な人、ね
 -   *United Imperial of Mio* Citizen.
 <!-- - [RSSHub](https://github.com/diygod/rsshub) collaborator
