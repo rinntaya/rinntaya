@@ -1,11 +1,4 @@
-<!-- <a href="https://mio.am">
-  <img style="width:160px;border-radius:100%" align=right src="https://raw.githubusercontent.com/Miourasaki/Miourasaki/main/assets/avatar.png">  
-</a> -->
-
-
-
-# りん ロスタヤ　 「Rinn · Lostaya」
-
+# 私は 「白澪 · ロスタヤ」
 
 [![RinnTaya's Index](https://cdn.jsdelivr.net/gh/RinnTaya/RinnTaya@master/assets/miourasaki-index-brage.svg)](https://rinn.im)
 [![wakatime](https://wakatime.com/badge/user/804838f1-d424-4483-8dd6-374c860dddb8.svg?style=flat-square)](https://wakatime.com/@804838f1-d424-4483-8dd6-374c860dddb8)
@@ -38,12 +31,12 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Miololilin?style=social)](https://twitter.com/Miololilin)· -->
 <!-- [![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin) -->
 
-[My WebSite](https://rinn.im) ·
+[失われた物語](https://rinn.im) ·
 [BiliBili](https://space.bilibili.com/94209973) ·
 [Twitter](https://twitter.com/rinntaya) ·
-[KOOK](https://kooktalk.top/16899324) ·
-[Steam](https://steamcommunity.com/id/Miourasaki/) ·
-[E-Mail](mailto:mio@chyan.moe)
+[Telegram](https://t.me/rinntaya) ·
+[Steam](https://steamcommunity.com/id/rinnsuta/) ·
+[E-Mail](mailto:i@rinn.im)
 
 
 <br>
