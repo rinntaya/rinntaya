@@ -32,7 +32,6 @@
 <!-- [![Minecraft](https://img.shields.io/badge/Minecraft-lolilin-green.svg?labelColor=green&color=yellowgreen&logo=Block)](https://namemc.com/profile/lolilin) -->
 
 [失われた物語](https://rinn.im) ·
-[BiliBili](https://space.bilibili.com/94209973) ·
 [Twitter](https://twitter.com/rinntaya) ·
 [Telegram](https://t.me/rinntaya) ·
 [Steam](https://steamcommunity.com/id/rinnsuta/) ·
